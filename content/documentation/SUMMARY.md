@@ -181,6 +181,7 @@
 
 ***
 
+* [Page A2](page-a2.md)
 * [Video A](video-a.md)
 
 ## Guides
